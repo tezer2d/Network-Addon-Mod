@@ -4,7 +4,7 @@ organization := "com.sc4nam"
 
 version := "48-SNAPSHOT"
 
-scalaVersion := "2.13.10"
+scalaVersion := "2.13.12"
 
 scalacOptions ++= Seq(
   "-unchecked",
